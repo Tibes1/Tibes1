@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tibes</h1>
-<h3 align="center">Estudante de Sistemas de Informação.</h3>
+<h3 align="center">Currently studying information systems.</h3>
 
 - 🔭 I’m currently working on [EstudoAngular](https://github.com/Tibes1/EstudoAngular)
 
