@@ -1,4 +1,4 @@
-![image](https://github.com/Tibes1/Tibes1/assets/66281839/2c95176d-af5f-4581-b090-6a0c844e1dcd)<h1 align="center">Hi 👋, I'm Tibes</h1>
+<h1 align="center">Hi 👋, I'm Tibes</h1>
 <h3 align="center">Currently studying information systems.</h3>
 
 - 🔭 I’m currently working on [EstudoAngular](https://github.com/Tibes1/EstudoAngular)
